@@ -80,11 +80,10 @@ Top Survey offers a variety of very useful features with its free version of the
 
 To install all the dependences of the project, run the following command:
     
-    git clone https://github.com/Aman9723/smooth-dock-1057.git
+    git clone https://github.com/pratikderepatil/Top-Survey.git
     cd server
     npm install
-    cd ../
-    cd client
+    cd ../client
     npm install
 
 © 2022 Team Smooth-Dock
